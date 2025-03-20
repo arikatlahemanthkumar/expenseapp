@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -29,3 +30,9 @@ frontend/node_modules/
 frontend/my-app/Assignments/
 .env
 >>>>>>> c81fd53a50589132275e39036d454bde21c9ac58
+=======
+node_modules/
+.env
+dist/
+build/
+>>>>>>> 4d5ffb44d742ee57a3398e76cb8e2d227e1e6abd
