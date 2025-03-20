@@ -26,5 +26,6 @@ yarn-error.log*
 # Ignore node modules
 backend/node_modules/
 frontend/node_modules/
+frontend/my-app/Assignments/
 .env
 >>>>>>> c81fd53a50589132275e39036d454bde21c9ac58
